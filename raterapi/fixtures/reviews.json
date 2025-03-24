@@ -1,0 +1,58 @@
+[
+    {
+      "model": "raterapi.review",
+      "pk": 1,
+      "fields": {
+        "game": 1,
+        "user": 1,
+        "rating": 8,
+        "comment": "A great strategy game! Love the tension between resource management and trading.",
+        "created_on": "2025-03-20"
+      }
+    },
+    {
+      "model": "raterapi.review",
+      "pk": 2,
+      "fields": {
+        "game": 2,
+        "user": 2,
+        "rating": 7,
+        "comment": "Fun and easy to learn. The artwork and game pieces are top-notch.",
+        "created_on": "2025-03-21"
+      }
+    },
+    {
+      "model": "raterapi.review",
+      "pk": 3,
+      "fields": {
+        "game": 3,
+        "user": 3,
+        "rating": 9,
+        "comment": "Pandemic is a perfect cooperative game! Great for team play and working together.",
+        "created_on": "2025-03-22"
+      }
+    },
+    {
+      "model": "raterapi.review",
+      "pk": 4,
+      "fields": {
+        "game": 4,
+        "user": 4,
+        "rating": 6,
+        "comment": "Classic, but I feel it drags on for too long. Some players dominate the game.",
+        "created_on": "2025-03-23"
+      }
+    },
+    {
+      "model": "raterapi.review",
+      "pk": 5,
+      "fields": {
+        "game": 5,
+        "user": 5,
+        "rating": 10,
+        "comment": "An all-time favorite! The storytelling is incredible, and every game is different.",
+        "created_on": "2025-03-24"
+      }
+    }
+  ]
+  

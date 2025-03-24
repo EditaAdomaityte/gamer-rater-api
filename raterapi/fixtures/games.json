@@ -1,0 +1,78 @@
+[
+    {
+      "model": "raterapi.game",
+      "pk": 1,
+      "fields": {
+        "title": "Catan",
+        "description": "A strategy game about building settlements, trading, and developing resources.",
+        "designer": "Klaus Teuber",
+        "year_released": "1995",
+        "number_of_players": "3-4",
+        "play_time": "60 minutes",
+        "recommended_age": "10+",
+        "created_by": 1,
+        "categories": [1, 3, 7]
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 2,
+      "fields": {
+        "title": "Ticket to Ride",
+        "description": "A fun game where players build railways across the country, collecting train cards and completing routes.",
+        "designer": "Alan R. Moon",
+        "year_released": "2004",
+        "number_of_players": "2-5",
+        "play_time": "45 minutes",
+        "recommended_age": "8+",
+        "created_by": 2,
+        "categories": [1, 6, 8]
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 3,
+      "fields": {
+        "title": "Pandemic",
+        "description": "A cooperative game where players must work together to stop the spread of diseases.",
+        "designer": "Matt Leacock",
+        "year_released": "2008",
+        "number_of_players": "2-4",
+        "play_time": "45 minutes",
+        "recommended_age": "8+",
+        "created_by": 3,
+        "categories": [9, 10, 7]
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 4,
+      "fields": {
+        "title": "Monopoly",
+        "description": "A classic game of property trading and money management.",
+        "designer": "Charles Darrow",
+        "year_released": "1935",
+        "number_of_players": "2-6",
+        "play_time": "90 minutes",
+        "recommended_age": "8+",
+        "created_by": 4,
+        "categories": [2, 1]
+      }
+    },
+    {
+      "model": "raterapi.game",
+      "pk": 5,
+      "fields": {
+        "title": "Dungeons & Dragons",
+        "description": "A tabletop role-playing game where players create characters and go on adventures in a fantasy setting.",
+        "designer": "Gary Gygax, Dave Arneson",
+        "year_released": "1974",
+        "number_of_players": "2+",
+        "play_time": "Varies",
+        "recommended_age": "12+",
+        "created_by": 5,
+        "categories": [4, 6, 7]
+      }
+    }
+  ]
+  
